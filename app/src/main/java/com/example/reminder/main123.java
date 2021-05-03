@@ -38,7 +38,7 @@ public class main123 extends AppCompatActivity {
         ArrayList <String> theList = new ArrayList <> ( );
        // RecyclerView.Adapter adapter;
         RecyclerView recyclerView = (RecyclerView) findViewById (R.id.recyclerView);
-      MyListData[] myListData=new MyListData[20];
+      //MyListData[] myListData=new MyListData[20];
         int i=0;
  // ArrayList<MyListData> myListdata3;
         //StringBuffer s5;
